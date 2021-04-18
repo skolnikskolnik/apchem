@@ -1,7 +1,16 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HomePage from "./pages/HomePage";
-import { Grommet, Heading, Button, Box, Collapsible, ResponsiveContext, Layer } from 'grommet';
+import {
+  Grommet,
+  Anchor,
+  Heading,
+  Button,
+  Box,
+  Collapsible,
+  ResponsiveContext,
+  Layer
+} from 'grommet';
 import AppBar from "./components/AppBar";
 import { FormClose } from 'grommet-icons';
 
@@ -27,12 +36,12 @@ function App() {
 
   return (
     <Router>
-      <Grommet theme={theme} full themeMode="dark">
+      <Grommet theme={theme} full>
         <ResponsiveContext.Consumer>
           {size => (
             <Box fill>
               <AppBar>
-                <Heading level='3' margin='none'>AP Chemistry for not-so dummies</Heading>
+                <Heading level='3' margin='none'>Mrs. Altman's AP Chemistry Page</Heading>
                 <Button
                   onClick={() => setShowSidebar(!showSidebar)}
                 >Show sidebar</Button>
@@ -56,8 +65,14 @@ function App() {
                       align='center'
                       justify='center'
                     >
-                      sidebar
-              </Box>
+                      <h3>Welcome to Mrs. Altman's page!</h3>
+                      <p>This website is designed to supplement what you're learning in class so you can be successful in your AP Chemistry course and exam.</p>
+                      <h4>Table of contents</h4>
+                      <Anchor
+                        href="/"
+                        label="Home Page"
+                      />
+                    </Box>
                   </Collapsible>
                 ) : (
                   <Layer>
