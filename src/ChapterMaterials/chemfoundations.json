@@ -1,0 +1,68 @@
+
+
+[
+    {
+        "index":  1,
+        "videoIndex": 1,
+        "youtubeInfo": "7_zkDOhB_0U",
+        "title": "Intro to chemistry",
+        "summary": "Intro to chemistry, theories, laws, making measurements to the proper degree of precision",
+        "practiceProblems": "Worksheet: Uncertainty",
+        "quickTips" : ""
+    },
+    {
+        "index":  2,
+        "videoIndex": 2,
+        "youtubeInfo": "JXwH0eglPrw",
+        "title": "Intro to significant figures",
+        "summary": "Determining the number of sig figs in a measurement",
+        "practiceProblems": "Z+Z: p. 34 #28-30, 32",
+        "quickTips" : ""
+    },
+    {
+        "index":  3,
+        "videoIndex": 3,
+        "youtubeInfo": "oNUG9j2RPuI",
+        "title": "Significant figures with operations",
+        "summary": "Multiplication/division and addition/subtraction with significant figures",
+        "practiceProblems": "Z+Z: p. 35 #34, 35, 36 (all), 37 (a-c)",
+        "quickTips" : "Remember order of operations"
+    },
+    {
+        "index":  4,
+        "videoIndex": 4,
+        "youtubeInfo": "QU6PA1sFPNo",
+        "title": "Dimensional analysis, accuracy, precision, error",
+        "summary": "Accuracy and precision, random and systematic error, introduction to dimensional analysis",
+        "practiceProblems": "Z+Z: p. 34-35 #22, 41(a,b), 42",
+        "quickTips" : ""
+    },
+    {
+        "index":  5,
+        "videoIndex": 5,
+        "youtubeInfo": "BYmsmoYiJoA",
+        "title": "Dimensional analysis - more complex cases",
+        "summary": "Dimensional analysis with compound units and exponents",
+        "practiceProblems": "Z+Z: p. 36 #47, 49, 50, 46",
+        "quickTips" : ""
+    },
+    {
+        "index":  6,
+        "videoIndex": 6,
+        "youtubeInfo": "Gp87is_EqX0",
+        "title": "Temperature conversions, calculations with density",
+        "summary": "Converting between Celsius, Fahrenheit, and Kelvin; Density in dimensional analysis calculations",
+        "practiceProblems": "Z+Z: p. 36-37 #57, 63, 69, 71",
+        "quickTips" : ""
+    },
+    {
+        "index":  7,
+        "videoIndex": 7,
+        "youtubeInfo": "QfS9Jhe8yOI",
+        "title": "Chemical foundations vocabulary",
+        "summary": "The states of matter, endothermic and exothermic processes, heterogeneous and homogeneous mixtures, pure substances, distillation, filtration, chromatography, elements, compounds, physical and chemical changes",
+        "practiceProblems": "Z+Z: p. 38 #79, 81, 83, 85, 87",
+        "quickTips" : ""
+    }
+]
+

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HomePage from "./pages/HomePage";
+import ChemFoundations from "./pages/ChemFoundations";
 import {
   Grommet,
   Anchor,
@@ -52,6 +53,9 @@ function App() {
                     <Route exact path="/">
                       <HomePage />
                     </Route>
+                    <Route exact path="/chemfoundations">
+                      <ChemFoundations />
+                    </Route>
                   </Switch>
                 </Box>
                 {(!showSidebar || size !== 'small') ? (
@@ -71,6 +75,10 @@ function App() {
                       <Anchor
                         href="/"
                         label="Home Page"
+                      />
+                      <Anchor
+                        href="/chemfoundations"
+                        label="Chemical Foundations"
                       />
                     </Box>
                   </Collapsible>

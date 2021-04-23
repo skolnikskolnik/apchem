@@ -14,7 +14,7 @@ export default function HomePage() {
     return (
         <div>
             <h1>About this page</h1>
-            <p>This page is created by Mrs. Altman, who has over 8 years teaching experience in all levels of chemistry, ranging from remedial chemistry to AP Chemistry, and even some college courses.</p>
+            <p>This page is created by Mrs. Altman, who has over 8 years teaching experience in all levels of chemistry, ranging from remedial chemistry to AP Chemistry, and even some college courses. This is me! I look a little different when I teach.</p>
             <br></br>
             <Box height="medium" width="medium" margin="15px" >
             <Image src={jskolpic} />
