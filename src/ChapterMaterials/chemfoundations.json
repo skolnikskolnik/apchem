@@ -3,7 +3,7 @@
 [
     {
         "index":  1,
-        "videoIndex": 1,
+        "videoIndex": "Video #1",
         "youtubeInfo": "7_zkDOhB_0U",
         "title": "Intro to chemistry",
         "summary": "Intro to chemistry, theories, laws, making measurements to the proper degree of precision",
@@ -12,7 +12,7 @@
     },
     {
         "index":  2,
-        "videoIndex": 2,
+        "videoIndex": "Video #2",
         "youtubeInfo": "JXwH0eglPrw",
         "title": "Intro to significant figures",
         "summary": "Determining the number of sig figs in a measurement",
@@ -21,7 +21,7 @@
     },
     {
         "index":  3,
-        "videoIndex": 3,
+        "videoIndex": "Video #3",
         "youtubeInfo": "oNUG9j2RPuI",
         "title": "Significant figures with operations",
         "summary": "Multiplication/division and addition/subtraction with significant figures",
@@ -30,7 +30,7 @@
     },
     {
         "index":  4,
-        "videoIndex": 4,
+        "videoIndex": "Video #4",
         "youtubeInfo": "QU6PA1sFPNo",
         "title": "Dimensional analysis, accuracy, precision, error",
         "summary": "Accuracy and precision, random and systematic error, introduction to dimensional analysis",
@@ -39,7 +39,7 @@
     },
     {
         "index":  5,
-        "videoIndex": 5,
+        "videoIndex": "Video #5",
         "youtubeInfo": "BYmsmoYiJoA",
         "title": "Dimensional analysis - more complex cases",
         "summary": "Dimensional analysis with compound units and exponents",
@@ -48,7 +48,7 @@
     },
     {
         "index":  6,
-        "videoIndex": 6,
+        "videoIndex": "Video #6",
         "youtubeInfo": "Gp87is_EqX0",
         "title": "Temperature conversions, calculations with density",
         "summary": "Converting between Celsius, Fahrenheit, and Kelvin; Density in dimensional analysis calculations",
@@ -57,7 +57,7 @@
     },
     {
         "index":  7,
-        "videoIndex": 7,
+        "videoIndex": "Video #7",
         "youtubeInfo": "QfS9Jhe8yOI",
         "title": "Chemical foundations vocabulary",
         "summary": "The states of matter, endothermic and exothermic processes, heterogeneous and homogeneous mixtures, pure substances, distillation, filtration, chromatography, elements, compounds, physical and chemical changes",
