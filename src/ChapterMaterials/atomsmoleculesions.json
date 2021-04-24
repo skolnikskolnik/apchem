@@ -1,0 +1,56 @@
+[
+    {
+        "index":  1,
+        "videoIndex": "Video #14",
+        "youtubeInfo": "OpmBMdQXPE0",
+        "title": "Intro to the atom",
+        "summary": "The law of definite propertions, the parts of the atom, full atomic symbols",
+        "practiceProblems": "Z+Z: p. 75 #57, 58",
+        "quickTips" : ""
+    },
+    {
+        "index":  2,
+        "videoIndex": "Video #15",
+        "youtubeInfo": "gH6pVfA1Voo",
+        "title": "Ions and isotopes",
+        "summary": "Ions, intro to isotopes, metals, nonmetals, and metalloids",
+        "practiceProblems": "Z+Z: p. 75-76 #53, 59, 67",
+        "quickTips" : ""
+    },
+    {
+        "index":  3,
+        "videoIndex": "Video #16",
+        "youtubeInfo": "NJxFUf1dXFo",
+        "title": "Intro to the periodic table",
+        "summary": "Groups on the periodic table",
+        "practiceProblems": "Z+Z: 75-76 #55, 56, 69, 70",
+        "quickTips" : ""
+    },
+    {
+        "index":  4,
+        "videoIndex": "Video #17",
+        "youtubeInfo": "qoH2_aNx_IU",
+        "title": "Intro to nomenclature",
+        "summary": "Ionic vs covalent vonding, naming type I compounds, naming type II compounds",
+        "practiceProblems": "Z+Z: p. 77 #71, 73, 74",
+        "quickTips" : ""
+    },
+    {
+        "index":  5,
+        "videoIndex": "Video #18",
+        "youtubeInfo": "xlZJAHNX6ZE",
+        "title": "Nomenclature II",
+        "summary": "Naming type I and II compounds that contain polyatomic ions",
+        "practiceProblems": "Z+Z: p. 77 #71, 73, 74",
+        "quickTips" : ""
+    },
+    {
+        "index":  6,
+        "videoIndex": "Video #19",
+        "youtubeInfo": "hlCjeZl7O8I",
+        "title": "Nomenclature III",
+        "summary": "Naming type III compounds and acids",
+        "practiceProblems": "Z+Z: p. 77-78 #77, 78, 86, 87",
+        "quickTips" : ""
+    }
+]

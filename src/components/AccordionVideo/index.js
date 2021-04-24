@@ -18,7 +18,7 @@ const AccordionVideo = ({ json }) => (
                         <h3>{video.title}</h3>
                         <h4>{video.summary}</h4>
                         <VideoFrame embedId={video.youtubeInfo} />
-                        <h2>Suggested practice problems: {video.practiceProblems}</h2>
+                        <h5>Suggested practice problems: {video.practiceProblems}</h5>
                     </Box>
                 </Box>
             </AccordionPanel>
