@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import ChemFoundations from "./pages/ChemFoundations";
 import AtomsMoleculesIons from "./pages/AtomsMoleculesIons";
+import Stoichiometry from "./pages/Stoichiometry";
 import {
   Grommet,
   Anchor,
@@ -60,6 +61,9 @@ function App() {
                     <Route exact path="/atomsmoleculesions">
                       <AtomsMoleculesIons />
                     </Route>
+                    <Route exact path="/stoichiometry">
+                      <Stoichiometry />
+                    </Route>
                   </Switch>
                 </Box>
                 {(!showSidebar || size !== 'small') ? (
@@ -87,6 +91,10 @@ function App() {
                       <Anchor
                         href="/atomsmoleculesions"
                         label="Atoms, molecules, and ions"
+                      />
+                      <Anchor
+                        href="/stoichiometry"
+                        label="Stoichiometry"
                       />
                     </Box>
                   </Collapsible>

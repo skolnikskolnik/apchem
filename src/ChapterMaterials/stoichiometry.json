@@ -1,0 +1,56 @@
+[
+    {
+        "index":  1,
+        "videoIndex": "Video #20",
+        "youtubeInfo": "ls_rLTWq2tE",
+        "title": "Atomic/molecular masses",
+        "summary": "Output from a mass spectrometer; calculations between moles, atoms, and grams",
+        "practiceProblems": "Z+Z: p. 128 #37, 40, 41, 42",
+        "quickTips" : ""
+    },
+    {
+        "index":  2,
+        "videoIndex": "Video #21",
+        "youtubeInfo": "OIOsDHLX5Lc",
+        "title": "Molar mass",
+        "summary": "Molar mass; calculations between moles, molecules, and grams",
+        "practiceProblems": "Z+Z: p. 128-129 #45, 46, 52, 65",
+        "quickTips" : ""
+    },
+    {
+        "index":  3,
+        "videoIndex": "Video #22",
+        "youtubeInfo": "YdsUALyMQ8g",
+        "title": "Chemical formulas",
+        "summary": "Calculating percent composition",
+        "practiceProblems": "Z+Z: p. 130 #73, 76, 81, 88",
+        "quickTips" : ""
+    },
+    {
+        "index":  4,
+        "videoIndex": "Video #23",
+        "youtubeInfo": "AQTxx7bmG8c",
+        "title": "Chemical reactions",
+        "summary": "Balancing chemical equations",
+        "practiceProblems": "Z+Z: p. 131 #95, 101 (a, b, and c), 102 (all)",
+        "quickTips" : ""
+    },
+    {
+        "index":  5,
+        "videoIndex": "Video #24",
+        "youtubeInfo": "fBl4IM9Hx7g",
+        "title": "Stoichiometry",
+        "summary": "Stoichiometry, mole ratio, theoretical yield",
+        "practiceProblems": "Z+Z: p. 132 # 105, 106, 109",
+        "quickTips" : ""
+    },
+    {
+        "index":  6,
+        "videoIndex": "Video #25",
+        "youtubeInfo": "_j4nEaj6tek",
+        "title": "Limiting reagent",
+        "summary": "Limiting reagent, percent yield",
+        "practiceProblems": "Z+Z: p. 132- 133 #116, 124",
+        "quickTips" : ""
+    }
+]
