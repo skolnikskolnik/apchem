@@ -11,6 +11,7 @@ import jskolpic from "../documents/jskolpic.jpg";
 
 
 export default function HomePage() {
+
     return (
         <div>
             <h1>About this page</h1>

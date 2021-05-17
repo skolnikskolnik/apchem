@@ -4,6 +4,7 @@ import HomePage from "./pages/HomePage";
 import ChemFoundations from "./pages/ChemFoundations";
 import AtomsMoleculesIons from "./pages/AtomsMoleculesIons";
 import Stoichiometry from "./pages/Stoichiometry";
+import TypesChemReactions from "./pages/TypesChemReactions";
 import {
   Grommet,
   Anchor,
@@ -64,6 +65,9 @@ function App() {
                     <Route exact path="/stoichiometry">
                       <Stoichiometry />
                     </Route>
+                    <Route exact path="/typeschemreactions">
+                      <TypesChemReactions />
+                    </Route>
                   </Switch>
                 </Box>
                 {(!showSidebar || size !== 'small') ? (
@@ -95,6 +99,10 @@ function App() {
                       <Anchor
                         href="/stoichiometry"
                         label="Stoichiometry"
+                      />
+                                            <Anchor
+                        href="/typeschemreactions"
+                        label="Types of chemical reactions"
                       />
                     </Box>
                   </Collapsible>

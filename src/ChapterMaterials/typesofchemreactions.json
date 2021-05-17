@@ -1,0 +1,75 @@
+[
+    {
+        "index":  1,
+        "videoIndex": "Video #27",
+        "youtubeInfo": "WTjtj5EAny4",
+        "title": "Molarity",
+        "summary": "Calculations with molarity",
+        "practiceProblems": "Z+Z: p. 181 #29, 33, 34, 37",
+        "quickTips" : ""
+    },
+    {
+        "index":  2,
+        "videoIndex": "Video #28",
+        "youtubeInfo": "QC79_n_HQyU",
+        "title": "Dilution",
+        "summary": "Dilution calculations, using solubility rules",
+        "practiceProblems": "Z+Z: p. 181-182 #36, 43",
+        "quickTips" : ""
+    },
+    {
+        "index":  3,
+        "videoIndex": "Video #29",
+        "youtubeInfo": "Hmi33zL9ZjU",
+        "title": "Precipitation reactions",
+        "summary": "Using solubility rules, writing double replacement reactions (molecular equations, net ionic equations, spectator ions)",
+        "practiceProblems": "Z+Z: p. 182 #45, 47 (molecular and NIE only), 49",
+        "quickTips" : ""
+    },
+    {
+        "index":  4,
+        "videoIndex": "Video #30",
+        "youtubeInfo": "s-JNtzVKRiI",
+        "title": "Acid-base reactions",
+        "summary": "Writing acid-base reactions, double replacement stoichiometry",
+        "practiceProblems": "Z+Z: p. 183 #65 (just molecular equation), 67 (just molecular equation), 56, 57",
+        "quickTips" : ""
+    },
+    {
+        "index":  5,
+        "videoIndex": "Video #31",
+        "youtubeInfo": "EZzq19wCow8",
+        "title": "Titrations",
+        "summary": "Titration calculations, endpoints, indicator",
+        "practiceProblems": "Z+Z: p. 183-184 #70, 75, 77, 78",
+        "quickTips" : ""
+    },
+    {
+        "index":  6,
+        "videoIndex": "Video #32",
+        "youtubeInfo": "Prkwblhv240",
+        "title": "Intro to oxidation/reduction",
+        "summary": "Assigning oxidation numbers",
+        "practiceProblems": "Z+Z: p. 184 #79, 80",
+        "quickTips" : ""
+    },
+    {
+        "index":  7,
+        "videoIndex": "Video #33",
+        "youtubeInfo": "lN4b1sG0RGI",
+        "title": "Oxidation/reduction reactions",
+        "summary": "Determining if a reaction is redox, oxidizing and reducing agents, types of chemical reactions",
+        "practiceProblems": "Z+Z: p. 184 #83 (all), 84 (skip a)",
+        "quickTips" : ""
+    },
+    {
+        "index":  8,
+        "videoIndex": "Video #34",
+        "youtubeInfo": "1m5cxmUYuig",
+        "title": "Balancing redox reactions",
+        "summary": "Balancing redox reactions using the half-reaction method (not in acidic/basic solutions)",
+        "practiceProblems": "Z+Z: p. 184 #85, 86, 87 (b and c), 88(a)",
+        "quickTips" : ""
+    }
+]
+
